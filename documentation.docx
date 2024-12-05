@@ -1,0 +1,15 @@
+backend
+* npm install
+* npm run server
+
+admin
+* npm install
+* npm run dev
+
+frontend
+* npm install 
+* npm run dev
+
+features
+razorpay and stripe api
+google text color api
